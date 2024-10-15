@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\identityajaxclient\\wwwroot\\js\\details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|solutionrelative:identityajaxclient\\wwwroot\\js\\details.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\identityajaxclient\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|solutionrelative:identityajaxclient\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68014AE4-912A-498C-9F99-1A40EEF3A632}|ProductManagementAPI\\ProductManagementAPI.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\productmanagementapi\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68014AE4-912A-498C-9F99-1A40EEF3A632}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\identityajaxclient\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|solutionrelative:identityajaxclient\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\identityajaxclient\\wwwroot\\js\\edit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|solutionrelative:identityajaxclient\\wwwroot\\js\\edit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\identityajaxclient\\wwwroot\\js\\create.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|solutionrelative:identityajaxclient\\wwwroot\\js\\create.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\identityajaxclient\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|solutionrelative:identityajaxclient\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\identityajaxclient\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|solutionrelative:identityajaxclient\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B29EC28-8879-400B-9B5D-293B3AD33DB8}|Repositories\\Repositories.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B29EC28-8879-400B-9B5D-293B3AD33DB8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\identityajaxclient\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52404C65-DDF9-45A6-9C0E-475B1A555F34}|IdentityAjaxClient\\IdentityAjaxClient.csproj|solutionrelative:identityajaxclient\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D059E4-7A6D-406D-8C82-5256330788F2}|DataAccess\\DataAccess.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D059E4-7A6D-406D-8C82-5256330788F2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDF86FB-A69F-4449-9810-05A36194A55E}|BusinessObjects\\BusinessObjects.csproj|d:\\code\\visualstudio\\prn231\\lab03_idetityajax asp.netcorewebapi\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDF86FB-A69F-4449-9810-05A36194A55E}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "create.js",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\wwwroot\\js\\create.js",
+              "RelativeDocumentMoniker": "IdentityAjaxClient\\wwwroot\\js\\create.js",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\wwwroot\\js\\create.js",
+              "RelativeToolTip": "IdentityAjaxClient\\wwwroot\\js\\create.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-15T12:17:18.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\wwwroot\\js\\index.js",
+              "RelativeDocumentMoniker": "IdentityAjaxClient\\wwwroot\\js\\index.js",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\wwwroot\\js\\index.js",
+              "RelativeToolTip": "IdentityAjaxClient\\wwwroot\\js\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-15T10:39:10.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "details.js",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\wwwroot\\js\\details.js",
+              "RelativeDocumentMoniker": "IdentityAjaxClient\\wwwroot\\js\\details.js",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\wwwroot\\js\\details.js",
+              "RelativeToolTip": "IdentityAjaxClient\\wwwroot\\js\\details.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-15T13:39:38.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "edit.js",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\wwwroot\\js\\edit.js",
+              "RelativeDocumentMoniker": "IdentityAjaxClient\\wwwroot\\js\\edit.js",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\wwwroot\\js\\edit.js",
+              "RelativeToolTip": "IdentityAjaxClient\\wwwroot\\js\\edit.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-15T12:58:00.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "IdentityAjaxClient\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "IdentityAjaxClient\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T13:39:10.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "IdentityAjaxClient\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "IdentityAjaxClient\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T12:17:22.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\DataAccess\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ProductDAO.cs",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\DataAccess\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccess\\ProductDAO.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:04:54.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "IdentityAjaxClient\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "IdentityAjaxClient\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:34:05.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsControllers.cs",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\ProductManagementAPI\\Controllers\\ProductsControllers.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\ProductsControllers.cs",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\ProductManagementAPI\\Controllers\\ProductsControllers.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Controllers\\ProductsControllers.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:55:12.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IdentityAjaxClient\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\IdentityAjaxClient\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "IdentityAjaxClient\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T12:58:12.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:22:57.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "D:\\Code\\VisualStudio\\PRN231\\Lab03_IdetityAjax ASP.NETCoreWebAPI\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:25:28.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

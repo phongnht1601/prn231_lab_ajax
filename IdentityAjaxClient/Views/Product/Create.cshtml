@@ -1,0 +1,28 @@
+﻿<div class="container-fluid">
+    <h2>
+        Create Product
+        <a class="btn btn-sm btn-primary" asp-action="Index">Back</a>
+    </h2>
+    <div class="form-control">
+        <label for="ProductName">Name</label>
+        <input type="text" class="form-control" id="ProductName" />
+    </div>
+    <div class="form-control">
+        <label for="CategoryId">CategoryId</label>
+        <input type="text" class="form-control" id="CategoryId" />
+    </div>
+    <div class="form-control">
+        <label for="UnitsInStock">Quantity</label>
+        <input type="text" class="form-control" id="UnitsInStock" />
+    </div>
+    <div class="form-control">
+        <label for="UnitPrice">Price</label>
+        <input type="text" class="form-control" id="UnitPrice" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary" id="CreateButton">
+            Create
+        </button>
+    </div>
+</div>
+<script defer src="~/js/create.js"></script>

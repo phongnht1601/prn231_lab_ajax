@@ -1,0 +1,48 @@
+﻿<div class="container-fluid">
+    <h2>
+        Update Product
+        <a class="btn btn-sm btn-primary" asp-action="Index">Back</a>
+    </h2>
+    <div class="form-control">
+        <label for="ProductId">Id</label>
+        <input type="text" class="form-control" id="ProductId" readonly />
+    </div>
+    <div class="form-control">
+        <label for="ProductName">Name</label>
+        <input type="text" class="form-control" id="ProductName" />
+    </div>
+    <div class="form-control">
+        <label for="CategoryId">CategoryId</label>
+        <input type="text" class="form-control" id="CategoryId" />
+    </div>
+    <div class="form-control">
+        <label for="UnitsInStock">Quantity</label>
+        <input type="text" class="form-control" id="UnitsInStock" />
+    </div>
+    <div class="form-control">
+        <label for="UnitPrice">Price</label>
+        <input type="text" class="form-control" id="UnitPrice" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary" id="UpdateButton">
+            Update
+        </button>
+    </div>
+
+    <div style="display:none" id="resultDiv">
+        <h2>Product</h2>
+        <table class="table table-sm table-striped table-bordered m-2 text-center">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>CategoryId</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+</div>
+<script defer src="~/js/edit.js"></script>
